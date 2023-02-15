@@ -6100,7 +6100,7 @@ UID,iso3,FIPS,Province_State,Country_Region,Last_Update,Report_Date_String,Confi
 178,COG,,,Congo (Brazzaville),2022-08-14,2022/08/14,24837,386,833210,62,0,0
 178,COG,,,Congo (Brazzaville),2022-11-20,2022/11/20,25375,386,833210,538,0,0
 178,COG,,,Congo (Brazzaville),2023-01-29,2023/01/29,25375,388,833210,0,2,0
-178,COG,,,Congo (Brazzaville),2023-02-12,2023/02/12,32818,743,833210,7443,355,0
+178,COG,,,Congo (Brazzaville),2023-02-12,2023/02/12,25073,388,833210,,0,0
 180,COD,,,Congo (Kinshasa),2020-01-26,2020/01/26,0,0,0,0,0,0
 180,COD,,,Congo (Kinshasa),2020-03-15,2020/03/15,2,0,0,2,0,0
 180,COD,,,Congo (Kinshasa),2020-03-22,2020/03/22,30,1,0,28,1,0
